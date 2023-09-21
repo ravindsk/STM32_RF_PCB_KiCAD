@@ -1,0 +1,44 @@
+### Footprint positions - created on Wed Sep 20 22:25:39 2023 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                               PosX       PosY       Rot  Side
+C1        10u            C_0603_1608Metric                                 146.3294  -135.8776  -90.0000  top
+C2        10u            C_0603_1608Metric                                 152.7556  -136.4488   90.0000  top
+C3        1u             C_0402_1005Metric                                 162.4838  -134.6708   90.0000  top
+C4        100n           C_0402_1005Metric                                 161.1884  -134.2898   90.0000  top
+C5        100n           C_0402_1005Metric                                 157.9880  -143.0020  180.0000  top
+C6        100n           C_0402_1005Metric                                 159.0802  -134.8232   90.0000  top
+C7        100n           C_0402_1005Metric                                 146.7612  -147.2946  180.0000  top
+C8        33n            C_0402_1005Metric                                 166.3954  -135.7122  180.0000  top
+C9        10u            C_0603_1608Metric                                 168.4274  -133.7056    0.0000  top
+C10       10n            C_0402_1005Metric                                 167.4622  -142.9004    0.0000  top
+C11       10n            C_0402_1005Metric                                 168.5290  -135.7122    0.0000  top
+C12       10n            C_0402_1005Metric                                 172.9232  -136.6520    0.0000  top
+C13       12p            C_0402_1005Metric                                 171.5008  -145.8468  -90.0000  top
+C14       12p            C_0402_1005Metric                                 164.9652  -146.3412   90.0000  top
+C15       2n2            C_0402_1005Metric                                 174.9068  -141.4526  180.0000  top
+C16       4p7            C_0402_1005Metric                                 174.9576  -142.6972  180.0000  top
+C17       1p5            C_0402_1005Metric                                 175.4148  -139.2428  180.0000  top
+C18       1p             C_0402_1005Metric                                 177.0912  -139.6746   90.0000  top
+D1        GR             LED_0603_1608Metric                               155.6512  -134.1628  -90.0000  top
+D2        YE             LED_0603_1608Metric                               157.3530  -134.1628  -90.0000  top
+F1        100mA          Fuse_1206_3216Metric                              142.5448  -133.2230  180.0000  top
+FB1       100@100Mhz     L_0805_2012Metric                                 148.2598  -132.4864    0.0000  top
+J1        USB_B_Micro    USB_Micro-B_Amphenol_10118193-0001LF_Horizontal   140.9446  -139.4948  -90.0000  top
+J2        ARM_10pin      PinHeader_2x05_P1.27mm_Vertical                   154.8484  -145.2980  -90.0000  top
+J3        SMA            SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount             183.5515  -139.7254   90.0000  top
+L1        8n2            L_0402_1005Metric                                 171.7318  -139.7000  -90.0000  top
+L2        3n9            L_0402_1005Metric                                 173.3574  -139.2174    0.0000  top
+L3        2n7            L_0402_1005Metric                                 173.0780  -140.8938   90.0000  top
+R1        10k            R_0402_1005Metric                                 163.8046  -134.3660   90.0000  top
+R2        2k2            R_0603_1608Metric                                 152.9588  -133.3754  180.0000  top
+R3        2k2            R_0603_1608Metric                                 160.1216  -132.5118    0.0000  top
+R4        22k            R_0402_1005Metric                                 170.6880  -135.7376    0.0000  top
+R5        1M             R_0402_1005Metric                                 169.6720  -143.1798    0.0000  top
+U1        XC6206PxxxMR   SOT-23-3                                          149.5044  -135.8845   90.0000  top
+U2        USBLC6-2SC6    SOT-23-6                                          152.0444  -140.6906  180.0000  top
+U3        STM32L432KBUx  QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm             160.2670  -139.2682  -90.0000  top
+U4        nRF24L01P      QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm               168.3258  -139.1412    0.0000  top
+Y1        16MHz          Crystal_SMD_3225-4Pin_3.2x2.5mm                   168.2418  -146.1888  180.0000  top
+## End
